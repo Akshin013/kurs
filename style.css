@@ -69,7 +69,6 @@ body{
 @media (max-width: 1200px) {
     .main{
         width: 80%;
-        background-color: red;
     }
 
     .btn-div{
